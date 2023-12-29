@@ -25,7 +25,7 @@
 
 	</dependencies>
 	
-	<distributionManagement>
+<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
 		    <url>http://34.229.161.230:8081/repository/batch12-snapshot/</url>
@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://34.229.161.230:8081/repository/batch-release/</url>
+		    <url>http://34.229.161.230:8081/repository/batch12-release/</url>
 		</repository>
   	</distributionManagement>
 	
